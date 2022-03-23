@@ -1,0 +1,32 @@
+.icon {
+visibility: hidden;
+top: 10px;
+right: 0px;
+transition: all .1s;
+width: 0px;
+}
+.task-item2:hover {
+    text-shadow: 5px 4px 11px rgba(31,2,0,0.69);}
+.task-item2:hover +.icon {
+    visibility: visible;
+}
+
+
+ul form div {
+    position: relative;
+}
+
+.bi.bi-search {
+    opacity: .5;
+    position: absolute;
+    top: 33%;
+    right: 20%;
+}
+.relative {
+    position: relative;
+}
+.bi.bi-pencil {
+    position: absolute;
+    top: -9px;
+    right: 7px;
+}

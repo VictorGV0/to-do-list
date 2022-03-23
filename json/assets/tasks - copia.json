@@ -1,0 +1,67 @@
+{
+    "type": "table",
+    "name": "task",
+    "database": "tareas",
+    "data": [
+        {
+            "id": "1",
+            "name": "Mejorar sitio Anterior&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;",
+            "description": "Actualizar el codigo anteriormente desarrollado -- DONE"
+        },
+        {
+            "id": "7",
+            "name": "Crear Tarea it Works :)",
+            "description": "hacer un sitio web con gestion de registros\t\ny una app"
+        },
+        {
+            "id": "8",
+            "name": "Follar sin parar",
+            "description": "Coger por 30 minutos minimo"
+        },
+        {
+            "id": "9",
+            "name": "Aprender como locoo",
+            "description": "Ver los cursos y practicar todo lo aprendido"
+        },
+        {
+            "id": "11",
+            "name": "Victor",
+            "description": "desarrolador web full stack junior\n"
+        },
+        {
+            "id": "12",
+            "name": "Tip para indexar busqueda SQL",
+            "description": "la codificacion de texto debe ser \"utf8_general_ci\t\" para que te muestre resultados similares independientemente si esta escrito en mayuscula o minuscula"
+        },
+        {
+            "id": "35",
+            "name": "listo bro ;)",
+            "description": "ya eres un hacker, digo jaker"
+        },
+        {
+            "id": "37",
+            "name": "z-indez 9999",
+            "description": "No es tan necesario el uso del z-index, solo necesitas conocer la posicion de los elementos y si es estrictamente necesario aplica un z-index.... La mayoria de las cosas se solucionan con un position: absolute, sticky o fixed :)"
+        },
+        {
+            "id": "73",
+            "name": "&quot;&lt;a href=&#039;test&#039;&gt;Test&lt;\/a&gt;&quot;",
+            "description": "&quot;&lt;a href=&#039;test&#039;&gt;Test&lt;\/a&gt;&quot;"
+        },
+        {
+            "id": "74",
+            "name": "&lt;script&gt;console.log(&quot;holi&quot;)&lt;\/script&gt;",
+            "description": "&lt;script&gt;console.log(&quot;holi&quot;)&lt;\/script&gt;"
+        },
+        {
+            "id": "75",
+            "name": "DELETE FROM `task` WHERE `task`.`id` = 74",
+            "description": "DELETE FROM `task` WHERE `task`.`id` = 74"
+        },
+        {
+            "id": "76",
+            "name": "SQL = &quot;DELETE FROM `task` WHERE `task`.`id` = 74&quot;",
+            "description": "SQL = &quot;DELETE FROM `task` WHERE `task`.`id` = 74&quot;"
+        }
+    ]
+}

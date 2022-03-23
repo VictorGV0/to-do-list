@@ -1,0 +1,47 @@
+{
+    "type": "table",
+    "name": "task",
+    "database": "tareas",
+    "data": [
+        {
+            "id": "1",
+            "name": "Mejorar sitio Anterior&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;",
+            "description": "Actualizar el codigo anteriormente desarrollado -- DONE"
+        },
+        {
+            "id": "7",
+            "name": "Crear Tarea it Works :)",
+            "description": "hacer un sitio web con gestion de registros\t\ny una app"
+        },
+        {
+            "id": "9",
+            "name": "Aprender como locoo",
+            "description": "Ver los cursos y practicar todo lo aprendido"
+        },
+        {
+            "id": "11",
+            "name": "Victor",
+            "description": "desarrolador web full stack junior\n"
+        },
+        {
+            "id": "12",
+            "name": "Tip para indexar busqueda SQL",
+            "description": "la codificacion de texto debe ser \"utf8_general_ci\t\" para que te muestre resultados similares independientemente si esta escrito en mayuscula o minuscula"
+        },
+        {
+            "id": "37",
+            "name": "z-indez 9999",
+            "description": "No es tan necesario el uso del z-index, solo necesitas conocer la posicion de los elementos y si es estrictamente necesario aplica un z-index.... La mayoria de las cosas se solucionan con un position: absolute, sticky o fixed :)"
+        },
+        {
+            "id": "73",
+            "name": "&quot;&lt;a href=&#039;test&#039;&gt;Test&lt;\/a&gt;&quot;",
+            "description": "&quot;&lt;a href=&#039;test&#039;&gt;Test&lt;\/a&gt;&quot;"
+        },
+        {
+            "id": "74",
+            "name": "&lt;script&gt;console.log(&quot;holi&quot;)&lt;\/script&gt;",
+            "description": "&lt;script&gt;console.log(&quot;holi&quot;)&lt;\/script&gt;"
+        }
+    ]
+}
